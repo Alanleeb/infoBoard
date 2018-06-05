@@ -21,7 +21,7 @@ group :development, :test do
    gem 'database_cleaner'
    gem 'simplecov'
    gem 'factory_bot_rails'
-  gem 'pry'
+   gem 'pry'
 end
 
 group :development do
